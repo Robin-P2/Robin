@@ -5,9 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:robinrt2002@gmail.com">Send Email</a>
+<a href="mailto:robinrt2002@gmail.com"></a>
 
-<a href="mailto:robinrt2002@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r5.png" alt="robin p" height="30" width="40" />Send Email</a>
+<a href="mailto:robinrt2002@gmail.com" target="blank"><img align="center" src="https://th.bing.com/th/id/ODLS.112e55dc-4008-476c-bb39-88b4f8adb808?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" alt="robin p" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/robin-p2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robin p" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/robinrt2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="robin p" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Robin_P/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="robin p" height="30" width="40" /></a>
