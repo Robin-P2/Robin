@@ -1,23 +1,15 @@
 <h1 align="center">Hi there 👋,I'm Robin!</h1>
-<h3 align="center">A Emerging Software Developer|Recent Computer Science graduate</h3>
+<h3 align="center">A Emerging Software Developer | Recent Computer Science graduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinp-2002&label=Profile%20views&color=0e75b6&style=flat" alt="robinp-2002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robinp-2002" alt="robinp-2002" /></a> </p>
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **Python,Django**
-
-- 📫 How to reach me **robinrt2002@gmail.com**
-
-- 📄 Know about my experiences [www.resume.com](www.resume.com)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/robin p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robin p" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/robin p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="robin p" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/robin p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="robin p" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/robin-p2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robin p" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/robinrt2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="robin p" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Robin_P/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="robin p" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
